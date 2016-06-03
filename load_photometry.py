@@ -95,7 +95,7 @@ def make_folder(target_dir, parent_dir=''):
     target_dir: string
         name of the folder to create
     parent_dir: string, optional
-        name of parent folder if you want there to ge one
+        name of parent folder if you want there to be one
     """
     if parent_dir == '':
         try:
